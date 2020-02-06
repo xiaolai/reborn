@@ -1,1 +1,9 @@
 /* CSS for print */
+img.displayed {
+	display: block;
+	margin-left:auto;
+	margin-right:auto
+}
+
+strong {color: brown;}
+em {color: blue;}
