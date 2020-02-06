@@ -14,3 +14,4 @@
  *.epub
  *.mobi
  *.pdf
+ .ipynb_checkpoints/
